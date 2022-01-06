@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Sample&apos; to &apos;EnumEx&apos;&#x0A;- Original project: &apos;DSA&apos;&#x0A;- Original element: &apos;Sample&apos;&#x0A;- Renamed element: &apos;EnumEx&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Sample&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Sample.java[Sample" matchStrategy="1" name="EnumEx" qualified="false" references="true" similarDeclarations="false" stamp="1548825324685" textual="false" version="1.0"/>
+</session>

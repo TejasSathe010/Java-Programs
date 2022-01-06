@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+/Users/apple/Documents/JAVA/.metadata/.plugins/org.eclipse.jdt.core
+541964085.index
+3238217830.index
+2200132246.index
+2168296080.index
